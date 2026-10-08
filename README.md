@@ -7,7 +7,7 @@
 
 [![Web](https://img.shields.io/badge/-Web-000000?style=flat&logo=world&logoColor=white)](https://slavko.tepavcevic.com/)
 [![LinkeGdIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/slavkotepavcevic)
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)](github.com/stbeli)
+[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/stbeli)
 
 ### PROFESSIONAL SUMMARY
 Senior WordPress Developer with 16+ years of experience building custom themes, plugins, and scalable web solutions. Proven expertise in Back/Front-end technologies, with a strong focus on performance optimization and SEO best practices.
